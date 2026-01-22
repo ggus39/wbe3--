@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/images/pioneer-medal.png" width="280" alt="LearnVerse Badge">
+  <img src="./assets/images/pioneer-medal.png" width="280">
 </p>
 
 <h1 align="center">🌐 LearnVerse: My Web3 Journey</h1>
